@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: main_page
 title: Jennifer Blanc
 subtitle: Human Genetics | Data Science | Education
 ---
