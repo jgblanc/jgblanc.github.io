@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Jennifer Blanc
+subtitle: Human Genetics | Data Science | Education
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a PhD Candidate in Human Genetics at the The University of Chicago.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
