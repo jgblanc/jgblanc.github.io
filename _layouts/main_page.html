@@ -6,7 +6,16 @@ layout: base
 
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   <div class="row">
-    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
+    {% if page.image %}
+      <!-- Column for the image -->
+      <div class="col-md-4">
+        <img src="{{ page.image }}" alt="Side image" class="img-fluid">
+      </div>
+      <!-- Column for the content -->
+      <div class="col-md-8">
+    {% else %}
+      <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
+    {% endif %}
       {% if page.before-content %}
         <div class="before-content">
           {% for file in page.before-content %}
