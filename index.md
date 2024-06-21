@@ -4,7 +4,7 @@ title: Jennifer Blanc
 subtitle: Human Genetics | Data Science | Education
 ---
 
-<img style="float: right;" src="assets/img/Pic.JPG">
+<img style="float: right;" src="float: right; width: 200px; height: auto;">
 
 ## About Me
 
