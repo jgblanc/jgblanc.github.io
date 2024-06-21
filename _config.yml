@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/Nucleic-Acid.png"
+#title-img: "/assets/img/Nucleic-Acid.png"
 
 
 #####################################
@@ -135,15 +135,15 @@ navbar-var-length: false
 
 page-col: "#E6E6FA"
 text-col: "#94003"
-link-col: "#008AFF"
+link-col: "#4B0082"
 hover-col: "#4B0082"
 navbar-col: "#FFD700"
 navbar-text-col: "#404040"
-navbar-border-col: "#404040"
-footer-col: "#FFD700"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+navbar-border-col: "#4B0082"
+footer-col: "#FF7F50"
+footer-text-col: "#94003"
+footer-link-col: "#4B0082"
+footer-hover-col: "#4B0082"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
