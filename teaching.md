@@ -1,6 +1,6 @@
 # Teaching and Outreach 
 
-As a passionate educator, I have experience as both a teaching assistant and lead instructor at both the graduate and undergraduate level, as well as extensive K-12 outreach experience. Addtionally, I have expereince in program delevopment and Higher Ed adminsitration as an active member of the The University of Chicago Human Genetics DEI committee. My professional goal, whether it be in the classroom or boardroom, is to cultivate a future where *all* students have the opportunity to pursue a STEM education. 
+As a passionate educator, I have experience as both a teaching assistant and lead instructor at both the graduate and undergraduate level, as well as extensive K-12 outreach experience. Addtionally, I have expereince in program delevopment and Higher Ed adminsitration as an active member of the The University of Chicago Human Genetics DEI committee. My professional goal is to cultivate a future where *all* students have the opportunity to pursue a STEM education. 
 
 
 ## Teaching Experience
@@ -27,7 +27,15 @@ In 2021 and and 2022 I paritcipated first as a Teaching Assistant, and then as a
 
 ## UC COMBO 
 
+I am a founding member of [University of Chicago COMputational Biology Outreach (UC COMBO)](https://voices.uchicago.edu/uccombo/) and current director of outreach. UC COMBO aims to introduce computational biology to Chicago-area middle and high school through interactive python workshops. Our workshops focus of demonstrating the utility of coding for answering biological questions and I have personally co-taught workshops for over 5 years as well as helping to develop the curriculum.  
+
 ## Genetics and Race Reading Group 
 
+In 2020 I participated in reading group on the [History of Race and Genetics](https://voices.uchicago.edu/geneticists-against-hate/) and developed the website to share our materials.  
+
 ## DEI Committee  
+
+Since 2023 I have been a member of the combined Human Genetics and Genetics, Genomics, and Systems Biology DEI committee. As part of my committee work, I co-planned a genetics DEI day where we hosted workshops on DEI topics (bias in admissions, how to be an ally, and bias breaks) run by a DEI professional. 
+
+
 
