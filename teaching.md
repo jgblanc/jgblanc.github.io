@@ -2,7 +2,7 @@
 
 As a passionate educator, I have experience as both a teaching assistant and lead instructor at both the graduate and undergraduate level, as well as extensive K-12 outreach experience. Additionally, I have experience in program development and higher ed administration as an active member of the The University of Chicago human genetics DEI committee. My professional goal is to cultivate a future where *all* students have the opportunity to pursue a STEM education.  
 
-## Teaching Experience
+## Teaching 
 
 ### Citizen Science Instructor at Bard College 
 
