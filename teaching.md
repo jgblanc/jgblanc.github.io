@@ -15,13 +15,13 @@ In 2021 and and 2022 I paritcipated first as a Teaching Assistant, and then as a
 
 ### Teaching Assistant 
 
-* Human Variation and Disease (2020 and 2022)
-- Graduate course for UChicago covering core concepts in sequencing, population genetics theory (coalescent, selection, neutral theory), quantitative genetics, and human evolutionary history
--  Responsible for designing/updating and leading four computational labs, as well as leading weekly dicussion sections covering theory or discussing a scientific paper
+- Human Variation and Disease (2020 and 2022)
+  - Graduate course for UChicago covering core concepts in sequencing, population genetics theory (coalescent, selection, neutral theory), quantitative genetics, and human evolutionary history
+  -  Responsible for designing/updating and leading four computational labs, as well as leading weekly dicussion sections covering theory or discussing a scientific paper  
 
-* Human Genetics 1 (2020)
-- Graduate course for UChicago covering concepts in human genetics, including medical, statistical, and epigenetics.   
--  Responsible for leading two computational labs sessions and guiding 4 students through a mock grant writing process 
+- Human Genetics 1 (2020)
+  - Graduate course for UChicago covering concepts in human genetics, including medical, statistical, and epigenetics.   
+  -  Responsible for leading two computational labs sessions and guiding 4 students through a mock grant writing process  
 
 ## Outreach 
 
