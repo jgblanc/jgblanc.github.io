@@ -26,7 +26,7 @@ In 2021 and and 2022 I participated first as a Teaching Assistant, and then as a
 
 ### UC COMBO 
 
-<img src="/assets/img/COMBO.png" style="float: left; width: 300px; height: auto; margin-right: 30px;">
+<img src="assets/img/COMBO.png" style="float: left; width: 300px; height: auto; margin-right: 30px;">
 
 I am a founding member of [University of Chicago COMputational Biology Outreach (UC COMBO)](https://voices.uchicago.edu/uccombo/) and current director of outreach. UC COMBO aims to introduce computational biology to Chicago-area middle and high school through interactive python workshops. Our workshops focus of demonstrating the utility of coding for answering biological questions and I have personally co-taught workshops for over 5 years as well as helping to develop the curriculum. As biology and medicine shift to larger and larger datasets, computational skills will become increasingly important and I believe students will benefit from exposure to coding and computational careers at the K-12 level.    
 
