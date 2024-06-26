@@ -2,6 +2,9 @@
 
 I am a trained population and statistical geneticist and have been a PhD student in [Jeremy Berg's lab](http://www.jjbpopgen.org/) in the department of human genetics at The University of Chicago since 2016. Before joining the Berg lab, I was an undergraduate researcher in the Graham Coop's lab at UC Davis, supervised by Emily Josephs. Additionally, I completed summer undergraduate research in Eimear Kenny's lab at the Icahn School of Medicine at Mount Sinai, supervised by Gillian Belbin. 
 
+My interests lie in understanding the complex interplay between genetics and the environment in shaping complex traits in humans. Thus far, my dissertation research has focused on using population genetic theory to model how confounding, either from environmental or background genetic effects, in GWAS generates bias in the distribution of polygenic scores that utilize those effect size estimates. Building off these theoretical results, I am developing methods to quantify how well existing approaches designed to control for confounding in GWAS perform under difference circumstances. In the future, I hope to continue working on problems surrounding polygenic prediction, specifically across diverse ancestry groups.       
+
+
 ### Human Statistical and Population Genetics
 
 #### Confounding in polygenic scores
