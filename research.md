@@ -10,6 +10,8 @@ I am a trained population and statistical geneticist and have been a PhD student
 
 [Blanc, Jennifer, and Jeremy J. Berg. "How well can we separate genetics from the environment?." Elife 9 (2020): e64948](https://elifesciences.org/articles/64948)
 
+<img src="/assets/img/4Pop.png" style="float: left; width: 400px; height: auto; margin-right: 30px;">
+
 All of my dissertation work centers on the problem of confounding in polygenic scores. Complex traits are influenced by both genetics and the environment. Human geneticists increasingly use polygenic scores, calculated as the weighted sum of trait-associated alleles, to predict genetic effects on a phenotype. Differences in polygenic scores across groups would therefore seem to indicate differences in the genetic basis of the trait, which are of interest to researchers across disciplines. However, because polygenic scores are usually computed using effect sizes estimated using population samples, they are susceptible to confounding due to both the genetic background and the environment. 
 
 In our work we use theory from population and statistical genetics, together with simulations, to study how environmental and background genetic effects can confound tests for association between polygenic scores and axes of ancestry variation. We then develop a simple method to protect these tests from confounding, which we evaluate, alongside standard methods, across a range of possible situations. Our work helps clarify how bias in the distribution of polygenic scores is produced and provides insight to researchers wishing to protect their analyses from confounding.
